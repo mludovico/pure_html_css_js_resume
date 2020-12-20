@@ -39,11 +39,6 @@ body {
     list-style-type: circle
 }
 
-.card-photo {
-    height: auto;
-    width: 100%;
-}
-
 a {
     text-decoration: none !important;
 }
@@ -57,31 +52,15 @@ a {
 
 .social-icon {
     background-image: url('/assets/icons.png');
-    background-size: 480px;
-    height: 45px;
-    width: 45px;
-    border-radius: 50%;
-    overflow: hidden;
-    margin-right: 15px;
 }
 
-.phone {
-    background-position: -67px -144px;
-}
+.phone {}
 
-.mail {
-    background-position: -127px -144px;
-}
+.mail {}
 
-.github {
-    background-position: -6px -265px;
-}
+.github {}
 
-.linkedin {
-    background-position: -369px -24px;
-}
+.linkedin {}
 
-.skype {
-    background-position: -6px -144px;
-}
+.skype {}
 
