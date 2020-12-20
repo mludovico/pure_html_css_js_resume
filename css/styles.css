@@ -1,0 +1,66 @@
+body {
+    font-family: 'Helvetica';
+    background-color: #eeeeee
+}
+
+#avatar-name {
+    font-family: 'Brush Script MT', cursive;
+    font-size: .9em
+}
+
+.pic-background {
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.navbar-avatar {
+    background-image: url(https://github.com/mludovico.png?size=50);
+    height: 50px;
+    width: 50px;
+}
+
+.profile-pic {
+    background-image: url(https://github.com/mludovico.png?size=200);
+    height: 200px;
+    width: 200px;
+}
+
+.main-content {
+    min-height: 600px;
+}
+
+.article {
+    width: 80%;
+    margin: 25px 0;
+    box-shadow: 5px 5px 5px 0 #ababab;
+}
+
+.skills-list {
+    list-style-type: circle
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.contact {
+    width: 400px;
+    max-height: 80px;
+    margin: 5px 25px;
+    box-shadow: 5px 5px 5px 0 #ababab;
+}
+
+.social-icon {
+    background-image: url('/assets/icons.png');
+}
+
+.phone {}
+
+.mail {}
+
+.github {}
+
+.linkedin {}
+
+.skype {}
+
